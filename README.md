@@ -24,3 +24,6 @@ Owner of Madhav Store wants us to help them create dashboard to track and analyz
 
 ### DashBoard Overview
 
+![image](https://github.com/sarvesh230/SalesInsights_PowerBI/assets/64326792/50494722-15a2-4609-ae2d-9b775bf7414a)
+
+
